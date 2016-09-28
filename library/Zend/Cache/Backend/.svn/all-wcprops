@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend
+END
+Sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Sqlite.php
+END
+Apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Apc.php
+END
+ZendPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/ZendPlatform.php
+END
+Memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Memcached.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/File.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Test.php
+END
+ExtendedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/ExtendedInterface.php
+END
+WinCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/WinCache.php
+END
+BlackHole.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/BlackHole.php
+END
+TwoLevels.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/TwoLevels.php
+END
+Static.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Static.php
+END
+ZendServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/ZendServer.php
+END
+Xcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Xcache.php
+END
+Libmemcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Libmemcached.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/Interface.php
+END

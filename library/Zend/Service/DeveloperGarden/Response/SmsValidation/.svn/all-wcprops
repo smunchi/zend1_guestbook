@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SmsValidation
+END
+ValidatedNumber.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SmsValidation/ValidatedNumber.php
+END
+GetValidatedNumbersResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SmsValidation/GetValidatedNumbersResponse.php
+END
+SendValidationKeywordResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SmsValidation/SendValidationKeywordResponse.php
+END
+ValidateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SmsValidation/ValidateResponse.php
+END
+InvalidateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SmsValidation/InvalidateResponse.php
+END

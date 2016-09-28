@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Storage/Session.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Storage/NonPersistent.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Storage/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Storage/Interface.php
+END

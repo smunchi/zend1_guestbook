@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Pdf/Filter
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Pdf/Filter/Interface.php
+END
+Compression.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Pdf/Filter/Compression.php
+END
+Ascii85.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Pdf/Filter/Ascii85.php
+END
+RunLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Pdf/Filter/RunLength.php
+END
+AsciiHex.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Pdf/Filter/AsciiHex.php
+END

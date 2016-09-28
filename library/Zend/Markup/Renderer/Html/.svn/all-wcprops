@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Markup/Renderer/Html
+END
+HtmlAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Markup/Renderer/Html/HtmlAbstract.php
+END
+Code.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Markup/Renderer/Html/Code.php
+END
+List.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Markup/Renderer/Html/List.php
+END
+Img.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Markup/Renderer/Html/Img.php
+END
+Url.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Markup/Renderer/Html/Url.php
+END

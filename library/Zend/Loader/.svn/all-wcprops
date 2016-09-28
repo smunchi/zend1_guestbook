@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader
+END
+ClassMapAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/ClassMapAutoloader.php
+END
+PluginLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/PluginLoader.php
+END
+AutoloaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/AutoloaderFactory.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/Exception.php
+END
+SplAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/SplAutoloader.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/Autoloader.php
+END
+StandardAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Loader/StandardAutoloader.php
+END

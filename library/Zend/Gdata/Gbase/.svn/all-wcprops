@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase
+END
+ItemEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/ItemEntry.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/Entry.php
+END
+ItemFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/ItemFeed.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/Feed.php
+END
+ItemQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/ItemQuery.php
+END
+SnippetEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/SnippetEntry.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/Query.php
+END
+SnippetFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/SnippetFeed.php
+END
+SnippetQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Gbase/SnippetQuery.php
+END

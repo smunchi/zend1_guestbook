@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2
+END
+Securitygroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Securitygroups.php
+END
+Availabilityzones.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Availabilityzones.php
+END
+Ebs.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Ebs.php
+END
+CloudWatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/CloudWatch.php
+END
+Elasticip.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Elasticip.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Response.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Image.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Abstract.php
+END
+Region.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Region.php
+END
+Instance.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Instance.php
+END
+Keypair.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Amazon/Ec2/Keypair.php
+END

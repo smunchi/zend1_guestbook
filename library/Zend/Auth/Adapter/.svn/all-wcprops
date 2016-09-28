@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter
+END
+DbTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/DbTable.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/Exception.php
+END
+OpenId.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/OpenId.php
+END
+Digest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/Digest.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/Http.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/Interface.php
+END
+Ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/Ldap.php
+END
+InfoCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Auth/Adapter/InfoCard.php
+END

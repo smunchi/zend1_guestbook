@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Delicious
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Delicious/Exception.php
+END
+SimplePost.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Delicious/SimplePost.php
+END
+PostList.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Delicious/PostList.php
+END
+Post.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Delicious/Post.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Validate/Sitemap
+END
+Loc.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Validate/Sitemap/Loc.php
+END
+Priority.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Validate/Sitemap/Priority.php
+END
+Changefreq.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Validate/Sitemap/Changefreq.php
+END
+Lastmod.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Validate/Sitemap/Lastmod.php
+END

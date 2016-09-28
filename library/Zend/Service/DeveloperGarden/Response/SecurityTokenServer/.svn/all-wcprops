@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer
+END
+GetTokensResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/GetTokensResponse.php
+END
+SecurityTokenResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/SecurityTokenResponse.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/Interface.php
+END

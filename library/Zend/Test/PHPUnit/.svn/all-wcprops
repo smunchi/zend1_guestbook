@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Test/PHPUnit
+END
+ControllerTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Test/PHPUnit/ControllerTestCase.php
+END
+DatabaseTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Test/PHPUnit/DatabaseTestCase.php
+END

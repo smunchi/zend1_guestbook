@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Ldap/Node/RootDse
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Ldap/Node/RootDse/ActiveDirectory.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Ldap/Node/RootDse/OpenLdap.php
+END
+eDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Ldap/Node/RootDse/eDirectory.php
+END

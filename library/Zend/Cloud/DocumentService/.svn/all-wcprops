@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/Factory.php
+END
+DocumentSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/DocumentSet.php
+END
+Document.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/Document.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/Exception.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/Adapter.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/Query.php
+END
+QueryAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cloud/DocumentService/QueryAdapter.php
+END

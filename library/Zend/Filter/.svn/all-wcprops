@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Boolean.php
+END
+StripTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/StripTags.php
+END
+StringToLower.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/StringToLower.php
+END
+Digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Digits.php
+END
+Encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Encrypt.php
+END
+StringToUpper.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/StringToUpper.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Inflector.php
+END
+Alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Alpha.php
+END
+PregReplace.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/PregReplace.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Int.php
+END
+Compress.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Compress.php
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Callback.php
+END
+LocalizedToNormalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/LocalizedToNormalized.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Exception.php
+END
+NormalizedToLocalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/NormalizedToLocalized.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Input.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Interface.php
+END
+RealPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/RealPath.php
+END
+StringTrim.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/StringTrim.php
+END
+Decompress.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Decompress.php
+END
+StripNewlines.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/StripNewlines.php
+END
+HtmlEntities.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/HtmlEntities.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Null.php
+END
+Decrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Decrypt.php
+END
+BaseName.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/BaseName.php
+END
+Alnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Alnum.php
+END
+Dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Filter/Dir.php
+END

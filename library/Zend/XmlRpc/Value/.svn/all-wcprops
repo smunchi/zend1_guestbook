@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value
+END
+Integer.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Integer.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Array.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Exception.php
+END
+BigInteger.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/BigInteger.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Boolean.php
+END
+Nil.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Nil.php
+END
+Base64.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Base64.php
+END
+Struct.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Struct.php
+END
+Scalar.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Scalar.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/String.php
+END
+Double.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Double.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/Collection.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/XmlRpc/Value/DateTime.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/ZendServer
+END
+ShMem.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/ZendServer/ShMem.php
+END
+Disk.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Cache/Backend/ZendServer/Disk.php
+END

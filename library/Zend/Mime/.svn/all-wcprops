@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mime
+END
+Decode.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mime/Decode.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mime/Message.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mime/Part.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mime/Exception.php
+END

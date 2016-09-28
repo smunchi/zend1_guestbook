@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Rest
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Rest/Server.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Rest/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Rest/Exception.php
+END
+Route.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Rest/Route.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Rest/Controller.php
+END

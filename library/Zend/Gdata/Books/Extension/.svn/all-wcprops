@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/Review.php
+END
+ThumbnailLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/ThumbnailLink.php
+END
+AnnotationLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/AnnotationLink.php
+END
+Viewability.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/Viewability.php
+END
+InfoLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/InfoLink.php
+END
+BooksCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/BooksCategory.php
+END
+BooksLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/BooksLink.php
+END
+Embeddability.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/Embeddability.php
+END
+PreviewLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Gdata/Books/Extension/PreviewLink.php
+END

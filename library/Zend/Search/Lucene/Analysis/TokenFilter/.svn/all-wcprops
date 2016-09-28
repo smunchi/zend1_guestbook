@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Search/Lucene/Analysis/TokenFilter
+END
+LowerCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Search/Lucene/Analysis/TokenFilter/LowerCase.php
+END
+StopWords.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Search/Lucene/Analysis/TokenFilter/StopWords.php
+END
+LowerCaseUtf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Search/Lucene/Analysis/TokenFilter/LowerCaseUtf8.php
+END
+ShortWords.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Search/Lucene/Analysis/TokenFilter/ShortWords.php
+END

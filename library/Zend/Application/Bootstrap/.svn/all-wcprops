@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Application/Bootstrap
+END
+Bootstrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Application/Bootstrap/Bootstrapper.php
+END
+ResourceBootstrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Application/Bootstrap/ResourceBootstrapper.php
+END
+Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Application/Bootstrap/Bootstrap.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Application/Bootstrap/Exception.php
+END
+BootstrapAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Application/Bootstrap/BootstrapAbstract.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Request/BaseUserService
+END
+ChangeQuotaPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Request/BaseUserService/ChangeQuotaPool.php
+END
+GetQuotaInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetQuotaInformation.php
+END
+GetAccountBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetAccountBalance.php
+END

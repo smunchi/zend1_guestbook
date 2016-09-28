@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Client
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Client/Exception.php
+END
+ClientAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Client/ClientAbstract.php
+END
+Soap.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/DeveloperGarden/Client/Soap.php
+END

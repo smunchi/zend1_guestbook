@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception
+END
+InvalidTopic.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/InvalidTopic.php
+END
+InvalidToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/InvalidToken.php
+END
+InvalidAuthToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/InvalidAuthToken.php
+END
+ServerUnavailable.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/ServerUnavailable.php
+END
+DeviceQuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/DeviceQuotaExceeded.php
+END
+InvalidPayload.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/InvalidPayload.php
+END
+QuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/QuotaExceeded.php
+END
+InvalidRegistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Mobile/Push/Exception/InvalidRegistration.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Feed/Pubsubhubbub/Model
+END
+ModelAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Feed/Pubsubhubbub/Model/ModelAbstract.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Feed/Pubsubhubbub/Model/Subscription.php
+END
+SubscriptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Feed/Pubsubhubbub/Model/SubscriptionInterface.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Rackspace/Files
+END
+ContainerList.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Rackspace/Files/ContainerList.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Rackspace/Files/Exception.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Rackspace/Files/Container.php
+END
+ObjectList.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Rackspace/Files/ObjectList.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/edita-vendors/!svn/ver/33/trunk/ZendFramework-1.12.2-optimized/library/Zend/Service/Rackspace/Files/Object.php
+END
